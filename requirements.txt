@@ -1,0 +1,7 @@
+edge-tts
+pygame
+pywebview
+twitchio
+pyttsx3
+pywin32
+pyinstaller
